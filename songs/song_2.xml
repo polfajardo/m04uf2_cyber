@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="2">
+	<title>GIRL</title>
+	<artists>
+		<artist id="2">Mike Towers</artist>
+	</artists>
+	<genres>
+		<genre id="2" />
+	</genres>
+	<duration seconds="210" />
+	<lyrics lang="es" format="str">
+00:00:01,000 --> 00:00:05,000
+Y ahora, mami, ven, quédate conmigo
+	</lyrics>
+	<album id="2" />
+</song>

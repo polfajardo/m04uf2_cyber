@@ -1,0 +1,19 @@
+<?xml version="1.0" enconding="UTF-8" ?>
+<song id="">
+	<title>Scary Monters and Nice Sprites</title>
+	<artists>
+		<artist id="1">Skrillex</artist>
+		<artist id="2">María del Monte</artist>
+	</artists>
+	<genres>
+		<genre id="" />
+		<genre id="" />
+	</genres>
+	<duration seconds="" />
+	<lyrics lang="en" format="str">
+00:02:17,440 --> 00:02:20,375
+Yes, oh my god
+	</lyrics>
+	<album id="" />
+	<record_label id="" />
+</song>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="2">
+	<name>Mike Towers</name>
+	<nationality country="pr" />
+	<birthdate date="1994-01-15" />
+	<albums>
+		<album id="2" />
+	</albums>
+</artist>

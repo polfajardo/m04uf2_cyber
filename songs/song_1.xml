@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="1">
+	<title>Moscow Mule</title>
+	<artists>
+		<artist id="1">Bad Bunny</artist>
+	</artists>
+	<genres>
+		<genre id="1" />
+	</genres>
+	<duration seconds="180" />
+	<lyrics lang="es" format="str">
+
+Pero se la saco dos tragos y sabe
+	</lyrics>
+	<album id="1" />
+</son

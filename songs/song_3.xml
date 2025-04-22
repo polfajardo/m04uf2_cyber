@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="3">
+	<title>Ponle Música</title>
+	<artists>
+		<artist id="3">Bryant Myers</artist>
+	</artists>
+	<genres>
+		<genre id="3" />
+	</genres>
+	<duration seconds="230" />
+	<lyrics lang="es" format="str">
+00:00:01,000 --> 00:00:05,000
+Ponle música que quiero bailar
+	</lyrics>
+	<album id="3" />
+</song>

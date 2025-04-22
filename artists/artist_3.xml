@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="3">
+	<name>Bryant Myers</name>
+	<nationality country="pr" />
+	<birthdate date="1994-01-05" />
+	<albums>
+		<album id="3" />
+	</albums>
+</artist>
